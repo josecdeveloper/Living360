@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "263252548294",
+    "firebase_url": "https://living-360.firebaseio.com",
+    "project_id": "living-360",
+    "storage_bucket": "living-360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263252548294:android:c9b7549a27a7c85c",
+        "android_client_info": {
+          "package_name": "com.android.living360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263252548294-lu0067f22pj8depu6m582khqf2v1j23q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPA6B0QAhQ7MLMqhboxa9500CesrSK4Eg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
