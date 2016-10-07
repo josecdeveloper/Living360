@@ -99,10 +99,6 @@ public class HomeActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
-            // action with ID action_refresh was selected
-            case R.id.action_refresh:
-               startActivity(new Intent(HomeActivity.this, MapsActivity.class));
-                break;
             // action with ID action_settings was selected
             case R.id.action_settings:
                 Snackbar.make(findViewById(android.R.id.content), "Had a snack at Snackbar", Snackbar.LENGTH_LONG)
