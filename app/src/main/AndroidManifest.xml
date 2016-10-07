@@ -30,6 +30,7 @@
         <activity android:name=".app.activities.LoginActivity" />
         <activity android:name=".app.activities.HomeActivity" />
         <activity android:name=".app.activities.MapsActivity" />
+
     </application>
 
 </manifest>
